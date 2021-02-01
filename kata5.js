@@ -1,4 +1,3 @@
-
 const urlEncode = function(text) {
   let arr = [];
   for (i = 0; i < text.length; i++) {
